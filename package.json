@@ -1,0 +1,40 @@
+{
+  "name": "@superset-ui/chart-controls",
+  "version": "0.15.19",
+  "description": "Superset UI control-utils",
+  "sideEffects": false,
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "files": [
+    "esm",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthanadftz/superset-ui.git#nzh1519"
+  },
+  "keywords": [
+    "superset"
+  ],
+  "author": "Superset",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Arthanadftz/superset-ui.git/issues"
+  },
+  "homepage": "https://github.com/apache-superset/superset-ui#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@superset-ui/core": "0.15.19",
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "@types/react": "*",
+    "@types/react-bootstrap": "*",
+    "react": "^16.13.1",
+    "react-bootstrap": "^0.33.1"
+  },
+  "gitHead": "86fd882913e01259e56c5fd75ce39d7aff6b993b"
+}
