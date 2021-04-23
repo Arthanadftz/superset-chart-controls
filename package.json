@@ -1,6 +1,6 @@
 {
-  "name": "@superset-ui/chart-controls",
-  "version": "0.15.19",
+  "name": "@arthanasti/chart-controls",
+  "version": "1.0.0",
   "description": "Superset UI control-utils",
   "sideEffects": false,
   "main": "lib/index.js",
@@ -16,12 +16,12 @@
   "keywords": [
     "superset"
   ],
-  "author": "Superset",
+  "author": "Arthanadftz",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/Arthanadftz/superset-ui.git/issues"
   },
-  "homepage": "https://github.com/apache-superset/superset-ui#readme",
+  "homepage": "https://github.com/Arthanadftz/superset-ui#readme",
   "publishConfig": {
     "access": "public"
   },
